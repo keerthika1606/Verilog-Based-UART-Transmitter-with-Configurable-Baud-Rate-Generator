@@ -5,9 +5,10 @@
 This project is a UART (Universal Asynchronous Receiver-Transmitter) 8N1 Transmitter designed using Verilog HDL. It was developed to understand how serial communication works at the hardware level.
 
 The design uses a Finite State Machine (FSM) along with a baud rate generator to transmit 8-bit parallel data serially. A self-checking testbench was also written to verify the functionality using different test cases.
-## Architecture
+## Block Diagram
 
-![UART Architecture](Block diagram.png)
+![Block Diagram](block_diagram.png)
+
 ---
 
 ## Features
