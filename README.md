@@ -7,7 +7,7 @@ This project is a UART (Universal Asynchronous Receiver-Transmitter) 8N1 Transmi
 The design uses a Finite State Machine (FSM) along with a baud rate generator to transmit 8-bit parallel data serially. A self-checking testbench was also written to verify the functionality using different test cases.
 ## Block Diagram
 
-![Block Diagram](block_diagram.png)
+![Block Diagram](Block diagram.png)
 
 ---
 
