@@ -105,6 +105,9 @@ Signals observed during simulation:
 - shift_reg
 - tx_busy
 - tx_out
+### Simulation Waveform
+
+![UART Waveform](WAVEFORM.jpeg)
 
 ---
 
